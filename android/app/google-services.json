@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "706000758558",
+    "firebase_url": "https://semester-project-8c96e-default-rtdb.firebaseio.com",
+    "project_id": "semester-project-8c96e",
+    "storage_bucket": "semester-project-8c96e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706000758558:android:4d9c13bc21e9af18e58b0f",
+        "android_client_info": {
+          "package_name": "Recipes.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706000758558-j58rvdeaobalv4jmubv6b22pdruif8s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOD771Ku6erySv6Scfs_dmZe8AN0cKgmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706000758558-j58rvdeaobalv4jmubv6b22pdruif8s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
